@@ -1,0 +1,25 @@
+
+.logo_wrapper {
+    background-color: #ad9243;
+    padding: 3rem 0;
+}
+
+.slick-track:before, .slick-track:after {
+    display: table;
+    content: "";
+}
+
+.slick-track:before, .slick-track:after {
+    display: table;
+    content: "";
+}
+
+.slick-slide img{
+    width: 100%;
+    
+}
+
+.slide img{
+    width: 70%;
+    height: 70%;
+}

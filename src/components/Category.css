@@ -1,0 +1,14 @@
+.category_wrapper {
+    background-color: #222;
+    height: auto;
+    padding: 4rem 0;}
+
+    h3{
+        font-size: 32px;
+        color: #ad9243;
+        letter-spacing: 1px;
+    }
+    .category_img {
+        height: 130px;
+        object-fit: cover;
+    }

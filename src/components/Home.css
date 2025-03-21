@@ -1,0 +1,61 @@
+  
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: raleway;
+    color: #fff;
+  }
+  
+  
+  body {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  .home_wrapper {
+    background-image: url(../../public/assets/home-banner.jpg);
+    height: auto;
+    padding: 4rem 0;
+  }
+  
+  .banner_classes {
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    width: 100%;
+  }
+  
+  .top_slogen {
+    font-size: 32px;
+    color: #ad9243;
+  }
+  
+  .home_banner_heading {
+    font-size: 70px;
+    color: #fff;
+    font-weight: 600;
+}
+  
+  .btn_app {
+    color: #ad9243;
+    background-color: #fff;
+    padding: 0.8rem 2rem;
+    border-radius: 8px;
+    
+  }
+  a{
+    text-decoration: none;
+    color: #ffffffea;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .btn_app:hover {
+    color: #fff;
+    background-color: #ad9243;
+  }
+  
+  .mobile_img {
+    height: 400px;
+    object-fit: contain;
+  }

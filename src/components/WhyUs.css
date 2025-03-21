@@ -1,0 +1,84 @@
+.logo_wrapper {
+    background-color: #ad9243;
+    padding: 3rem 0;
+}
+/* .btn-app{
+padding: 0.8rem 2rem;
+border-radius: 8px;
+background-color: #fff;
+color: #ad9243;
+}
+
+.btn-app:hover{
+    background-color: #595252;
+    color:  black;
+scale: 1.1;
+transition: all 0.2s ease;
+} */
+
+
+    /* From Uiverse.io by vinodjangid07 */ 
+.Btn {
+    margin-left: 150px;
+    width: 145px;
+    height: 44px;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(to right,#77530a,#ffd277,#77530a,#77530a,#ffd277,#77530a);
+    background-size: 250%;
+    background-position: left;
+    color: #ffd277;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition-duration: 1s;
+    overflow: hidden;
+    padding: 0.8rem 2rem;
+  }
+  
+  .Btn::before {
+    position: absolute;
+    content: "GET APP NOW!";
+    color: #ffd277;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 97%;
+    height: 90%;
+    border-radius: 8px;
+    transition-duration: 1s;
+    background-color: rgba(0, 0, 0, 0.842);
+    background-size: 200%;
+  }
+  
+  .Btn:hover {
+    background-position: right;
+    transition-duration: 1s;
+  }
+  
+  .Btn:hover::before {
+    background-position: right;
+    transition-duration: 1s;
+  }
+  
+  .Btn:active {
+    transform: scale(0.95);
+  }
+
+  @media (max-width: 768px) {
+    .Btn {
+      margin-left: 0;
+    }
+  }
+
+  h5 {
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.fa-circle {
+    color: #ad9243;
+    font-size: 24px;
+}
