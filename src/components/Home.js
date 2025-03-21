@@ -14,11 +14,11 @@ const Home = () => {
                         <h3 className="home_banner_heading">
                             Frozen Foods
                         </h3>
-                        <p className="pe-lg-5 fs-4 text-end me-lg-5">
+                        <p className="pe-lg-5 fs-4 text-start me-lg-5">
                             Delivered to Your Doorstep!
                         </p>
                         <div className="mt-4">
-                            <a href="#" className="btn_app fw-bold">Shop Now</a>
+                            <a href="#" className=" btn btn-warning  fw-bold">Shop Now</a>
                         </div>
                     </div>
                 </div>

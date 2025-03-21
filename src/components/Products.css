@@ -3,17 +3,3 @@
     padding: 10px;
     border-radius: 16px;}
 
-    .view-more{
-        color: #ad9243;
-        font-size: 14px;
-        cursor: pointer;
-        text-decoration: none;     
-        transition: all 0.2s ease; 
-        margin-top: 12px;
-    }
-    .view-more:hover{
-        background-color: #fff;
-        color: black;
-        scale: 1.1;
-        transition: all 0.2s ease;
-    }

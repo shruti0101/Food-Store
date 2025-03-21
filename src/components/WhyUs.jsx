@@ -23,7 +23,7 @@ const WhyUs = () => {
                 </div>
                 <div className="col-lg-6 col-12">
                     <div className="text-lg-center ">
-                        <a href="" classNameName="Btn fw-bold"></a>
+                        <a href="" className="Btn fw-bold"></a>
                     </div>
                 </div>
             </div>

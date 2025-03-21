@@ -37,23 +37,15 @@
     font-weight: 600;
 }
   
-  .btn_app {
-    color: #ad9243;
-    background-color: #fff;
-    padding: 0.8rem 2rem;
-    border-radius: 8px;
-    
-  }
+
+  
   a{
     text-decoration: none;
     color: #ffffffea;
     font-size: 14px;
     cursor: pointer;
   }
-  .btn_app:hover {
-    color: #fff;
-    background-color: #ad9243;
-  }
+
   
   .mobile_img {
     height: 400px;

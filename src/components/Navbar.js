@@ -57,7 +57,7 @@ const Navbar = () => {
                 <div className="d-flex justify-content-between align-items-center">
                     <div>
                        <a href="index.html">
-                        <img src="../assets/saksham-logo.png" width="140" alt=""/>
+                        <img src="../assets/saksham-logo.png " width="130" alt=""/>
                        </a>
                     </div>
                     <div>
