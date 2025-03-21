@@ -90,7 +90,7 @@ const WhyUs = () => {
 
 </div>
 </section>
-    <hr classNameName='text-white my-0' />
+    <hr classNameName='text-white m-0' />
 
 
     </div>

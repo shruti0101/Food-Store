@@ -18,7 +18,7 @@ const Category = () => {
                         <div className="col-lg-3 col-6">
                           <a href="">
                             <div className="box1 text-center">
-                                <img src="./assets/1.webp" classNameName="category_img" alt="oil"/>
+                                <img src="./assets/1.webp" className="category_img" alt="oil"/>
                                 <h6 className="fs-4 pt-2 text-white">
                                     Frozen  <br/>
                                     Foods
