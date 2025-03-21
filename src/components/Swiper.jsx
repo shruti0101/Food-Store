@@ -1,6 +1,6 @@
 import React from "react";
 import "./Swiper.css";
-import "./Products.css";
+
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";

@@ -1,11 +1,17 @@
-/* .footer_wrapper {
+*{
+    overflow-x: hidden !important;
+}
+.footer_wrapper {
     background-color: #000;
     height: auto;
     padding: 3rem 0;
+    max-width: 100%;
 }
+
+
 .img_social {
     width: 30px;
     height: 30px;
     margin-left: 10px;
-    margin-left: 10px;
-} */
+}
+

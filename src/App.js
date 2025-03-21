@@ -10,7 +10,7 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 import WhyUs from './components/WhyUs';
 import Swiper from './components/Swiper';
 import TopBrand from './components/TopBrand';
-// import Footer from './components/Footer';
+import Footer from './components/Footer';
 function App() {
   return (
    <>
@@ -21,7 +21,7 @@ function App() {
 <WhyUs></WhyUs>
 <Swiper></Swiper>
 <TopBrand></TopBrand>
-{/* <Footer></Footer> */}
+<Footer></Footer>
 
    
    </>

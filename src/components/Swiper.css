@@ -1,6 +1,5 @@
-body {
-    overflow-x: hidden !important;
-}
+
+
 .slick-slider .testimonial-image {
     width: 70px;
     height: 70px;
@@ -28,4 +27,17 @@ p {
 
 .slick-slider .quote-icon {
     fill: #ccc;
+}
+
+.slick-slider {
+    position: static !important;
+}
+
+
+@media screen and (max-width: 768px) {
+    .slick-slider {
+        position: relative !important;
+        overflow-y: hidden;
+    }
+    
 }
